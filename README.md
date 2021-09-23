@@ -1,9 +1,12 @@
 # A Next.js starter for the [Jamstack](https://jamstack.org) used for search e2e dashboard.
 This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site generator.
 
-[![Go to the Netlify template](https://www.netlify.com/img/deploy/button.svg)](https://github.com/netlify-templates/next-starter-jamstack)
+[Go to the Netlify template](https://github.com/netlify-templates/next-starter-jamstack)
 
-## Usage
+## Quick log of steps I've taken
+
+1. Make main branch
+2. Update .tech URL domain in Netlify to connect to new repo
 
 ### Getting started
 
